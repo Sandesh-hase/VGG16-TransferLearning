@@ -11,3 +11,8 @@ Activate the environment
 ```
 conda activate env_name
 ```
+Install the dependencies
+```
+pip install -r requirements.txt
+```
+Run app.py to start the app
